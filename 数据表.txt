@@ -1,0 +1,32 @@
+create table student(
+	sid varchar(8) primary key,
+	name varchar(8) not null,
+	sex varchar(2) not null,
+	dept varchar(24) not null
+);
+
+create table medical_record(
+	id int primary key auto_increment,
+	sid varchar(8),
+	result varchar(128),
+	record_date date
+);
+
+alter table medical_record add constraint FK_SID1 foreign key(sid) references student(sid) on delete cascade on update cascade;
+
+create table health_checkup(
+	id int primary key auto_increment,
+	sid varchar(8),
+	height int,
+	weight int,
+	bust int,
+	age int,
+	checkup_date date
+);
+alter table health_checkup add constraint FK_SID2 foreign key(sid) references student(sid) on delete cascade on update cascade;
+
+
+test:
+insert into student values("123",123,1,123);
+insert into medical_record values(null,"123","456",null);
+update student set sid = "233" where sid = "123";
