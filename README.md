@@ -9,15 +9,15 @@
 ### 登录注册界面（MD5加密密码）
 ![图片](https://github.com/YuRacle/HealthArchivesManagementSystem/blob/master/images/登录注册.jpg)
 ### 添加数据
-![图片](https://github.com/YuRacle/HealthArchivesManagementSystem/blob/master/images/添加.jpg)
+![图片](https://github.com/YuRacle/HealthArchivesManagementSystem/blob/master/images/添加.png)
 ### 多选删除
-![图片](https://github.com/YuRacle/HealthArchivesManagementSystem/blob/master/images/多选删除.jpg)
+![图片](https://github.com/YuRacle/HealthArchivesManagementSystem/blob/master/images/多选删除.png)
 ### 多选修改
-![图片](https://github.com/YuRacle/HealthArchivesManagementSystem/blob/master/images/多选修改.jpg)
+![图片](https://github.com/YuRacle/HealthArchivesManagementSystem/blob/master/images/多选修改.png)
 ### 多选项高级查询
-![图片](https://github.com/YuRacle/HealthArchivesManagementSystem/blob/master/images/多选项高级查询.jpg)
+![图片](https://github.com/YuRacle/HealthArchivesManagementSystem/blob/master/images/多选项高级查询.png)
 ### 导入导出Excel
-![图片](https://github.com/YuRacle/HealthArchivesManagementSystem/blob/master/images/导出Excel.jpg)
-![图片](https://github.com/YuRacle/HealthArchivesManagementSystem/blob/master/images/导入Excel.jpg)
+![图片](https://github.com/YuRacle/HealthArchivesManagementSystem/blob/master/images/导出Excel.png)
+![图片](https://github.com/YuRacle/HealthArchivesManagementSystem/blob/master/images/导入Excel.png)
 ### 动态折线图数据分析
-![图片](https://github.com/YuRacle/HealthArchivesManagementSystem/blob/master/images/动态折线图数据分析.jpg)
+![图片](https://github.com/YuRacle/HealthArchivesManagementSystem/blob/master/images/动态折线图数据分析.png)
